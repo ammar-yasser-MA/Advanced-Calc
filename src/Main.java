@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner userchoise = new Scanner(System.in);
 
-        System.out.println("Enter your nae:");
+        System.out.println("Enter your name:");
         String userName = userchoise.next();
     
         System.out.println("Enter your age:");
